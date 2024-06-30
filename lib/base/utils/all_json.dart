@@ -12,6 +12,84 @@ List<Map<String, dynamic>> ticketList = [
     'date': "1 May",
     'depurture_time': "8:00 AM",
     "number": 23
+  }, {
+    'from': {
+      'code': "NYC",
+      'name': "New - Yourk"
+    },
+    'to': {
+      'code': "LDN",
+      'name': "London"
+    },
+    'flying_time': "8H 30M",
+    'date': "1 May",
+    'depurture_time': "8:00 AM",
+    "number": 23
+  }, {
+    'from': {
+      'code': "NYC",
+      'name': "New - Yourk"
+    },
+    'to': {
+      'code': "LDN",
+      'name': "London"
+    },
+    'flying_time': "8H 30M",
+    'date': "1 May",
+    'depurture_time': "8:00 AM",
+    "number": 23
+  }, {
+    'from': {
+      'code': "NYC",
+      'name': "New - Yourk"
+    },
+    'to': {
+      'code': "LDN",
+      'name': "London"
+    },
+    'flying_time': "8H 30M",
+    'date': "1 May",
+    'depurture_time': "8:00 AM",
+    "number": 23
+  }, {
+    'from': {
+      'code': "NYC",
+      'name': "New - Yourk"
+    },
+    'to': {
+      'code': "LDN",
+      'name': "London"
+    },
+    'flying_time': "8H 30M",
+    'date': "1 May",
+    'depurture_time': "8:00 AM",
+    "number": 23
+  }, {
+    'from': {
+      'code': "NYC",
+      'name': "New - Yourk"
+    },
+    'to': {
+      'code': "LDN",
+      'name': "London"
+    },
+    'flying_time': "8H 30M",
+    'date': "1 May",
+    'depurture_time': "8:00 AM",
+    "number": 23
+  }, {
+    'from': {
+      'code': "NYC",
+      'name': "New - Yourk"
+    },
+    'to': {
+      'code': "LDN",
+      'name': "London"
+    },
+    'flying_time': "8H 30M",
+    'date': "1 May",
+    'depurture_time': "8:00 AM",
+    "number": 23
   },
   {
     'from': {
@@ -78,12 +156,83 @@ List<Map<String, dynamic>> hotelList = [{
   'price': 25,
 },
   {
-    'image': 'room.png',
+    'image': 'room1.jpeg',
     'place': 'Open space',
     'destination': 'London',
     'price': 23,
   },
   {
+    'image': 'room2.jpeg',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room3.jpeg',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room4.jpeg',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room1.jpeg',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 23,
+  },
+  {
+    'image': 'room2.jpeg',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room3.jpeg',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room4.jpeg',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room.png',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room.png',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room.png',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room.png',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room.png',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room.png',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
+    'image': 'room.png',
+    'place': 'Open space',
+    'destination': 'London',
+    'price': 45,
+  },{
     'image': 'room.png',
     'place': 'Open space',
     'destination': 'London',

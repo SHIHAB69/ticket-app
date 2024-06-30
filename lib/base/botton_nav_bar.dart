@@ -2,6 +2,7 @@ import 'package:fluentui_icons/fluentui_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:ielts_test/screens/home/home_screen.dart';
 import 'package:ielts_test/screens/search/search_screen.dart';
+import 'package:ielts_test/screens/ticket/ticket_screen.dart';
 
 class BottomNavBar extends StatefulWidget {
   const BottomNavBar({super.key});
@@ -14,8 +15,8 @@ class _BottomNavBarState extends State<BottomNavBar> {
   final appScreen = [
     const HomeScreen(),
     const SearchScreen(),
-    const Center(child: const Text("Ticket")),
-    const Center(child: const Text("Profile")),
+    const TicketScreen(),
+    const Center(child: Text("Profile")),
   ];
 
   //change our index of bottom nav bar
